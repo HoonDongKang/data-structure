@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include "ArrayList.h"
 
@@ -12,7 +11,7 @@ void LInsert(List * plist, LData data)
 {
 	if(plist->numOfData > LIST_LEN) 
 	{
-		puts("저장할 수 없다.");
+		puts("저장이 불가능합니다.");
 		return;
 	}
 

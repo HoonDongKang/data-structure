@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\Users\\c\\Desktop\\개발자\\data-structure\\header"
+                "C:\\Users\\c\\Desktop\\개발자\\data-structure\\header",
+                "C:\\Users\\c\\Desktop\\개발자\\data-structure\\header\\test.c"
             ],
             "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
             "windowsSdkVersion": "10.0.19041.0",
