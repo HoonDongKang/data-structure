@@ -17,7 +17,7 @@ int main(void)
     SetPointPos(ppos,2,1);
     LInsert(&list, ppos);
 
-    ppos =(Point *)malloc(sizeof(Point));
+    ppos =(Point *)maglloc(sizeof(Point));
     SetPointPos(ppos,2,2);
     LInsert(&list, ppos);
 
