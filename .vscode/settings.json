@@ -2,6 +2,8 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "listbasestack.h": "c",
-        "infixtopostfix.h": "c"
+        "infixtopostfix.h": "c",
+        "infixcalculator.h": "c",
+        "postcalculator.h": "c"
     }
 }
