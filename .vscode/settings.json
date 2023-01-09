@@ -1,6 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "listbasestack.h": "c"
+        "listbasestack.h": "c",
+        "infixtopostfix.h": "c"
     }
 }
