@@ -10,7 +10,7 @@ void QueueInit(Queue * pq)
 
 int QIsEmpty(Queue * pq)
 {
-    if(pq->front=NULL)
+    if(pq->front==NULL)
         return TRUE;
     else
         return FALSE;
@@ -33,7 +33,7 @@ void Enqueue(Queue * pq, Data data)
     }
 }
 
-void Dequeue(Queue * pq)
+Data Dequeue(Queue * pq)
 {
     Node *delNode;
     Data retData;
