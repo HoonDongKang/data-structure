@@ -7,9 +7,13 @@
                 "C:\\Users\\c\\Desktop\\개발자\\data-structure\\header",
                 "C:\\Users\\c\\Desktop\\개발자\\data-structure\\header\\test.c"
             ],
-            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
             "windowsSdkVersion": "10.0.19041.0",
-            "compilerPath": "C:/mingw64/bin/gcc.exe",
+            "compilerPath": "/usr/bin/clang",
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "windows-gcc-x64"
