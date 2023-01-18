@@ -1,11 +1,16 @@
 {
-  "C_Cpp.errorSquiggles": "disabled",
-  "files.associations": {
-    "listbasestack.h": "c",
-    "infixtopostfix.h": "c",
-    "infixcalculator.h": "c",
-    "postcalculator.h": "c",
-    "usefulheap.h": "c",
-    "stdio.h": "c"
-  }
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "listbasestack.h": "c",
+        "infixtopostfix.h": "c",
+        "infixcalculator.h": "c",
+        "postcalculator.h": "c",
+        "usefulheap.h": "c",
+        "stdio.h": "c",
+        "binarytree2.h": "c",
+        "binarysearchtree.h": "c",
+        "stdlib.h": "c",
+        "binarysearchtree2.h": "c",
+        "binarytree3.h": "c"
+    }
 }
