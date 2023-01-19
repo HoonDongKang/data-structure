@@ -11,6 +11,7 @@
         "binarysearchtree.h": "c",
         "stdlib.h": "c",
         "binarysearchtree2.h": "c",
-        "binarytree3.h": "c"
+        "binarytree3.h": "c",
+        "binarytree3.c": "cpp"
     }
 }
